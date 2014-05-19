@@ -1,0 +1,5 @@
+package com.example.crashtest;
+
+public class CrashHandler {
+
+}
